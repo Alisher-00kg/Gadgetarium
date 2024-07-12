@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Orbitron:wght@600;700&family=Ubuntu:wght@300;400;500;700&family=Outfit:wght@600;700&family=Manrope:wght@300;400&;500display=swap');
+
+* {
+   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+h1 {
+   font-family: Ubuntu;
+   font-size: 3.2em;
+   line-height: 1.1;
+}
+ul,
+ol,
+li {
+   list-style-type: none;
+}
